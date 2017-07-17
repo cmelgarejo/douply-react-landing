@@ -81,34 +81,34 @@ class App extends Component {
                   <iframe id="ytplayer" type="text/html" width="640" height="390" src="https://www.youtube.com/embed/yDY54EDSovg?rel=0" frameborder="0"></iframe>
                 </Col>
               </Row>
+              <Row>
+                <Col md={3} sm={6} xs={12}>
+                  <Feature feature_image_alt="Client" feature_image="https://www.douply.com/images/icons/duo/client.png"
+                      title="Client side dashboard"
+                      content="No need to share or submit reporting yourself. Douply comes with a free built-in client dashboard"
+                  />
+                </Col>
+                <Col md={3} sm={6} xs={12}>
+                  <Feature feature_image_alt="Client" feature_image="https://www.douply.com/images/icons/duo/report.png"
+                      title="Client side dashboard"
+                      content="No need to share or submit reporting yourself. Douply comes with a free built-in client dashboard"
+                  />
+                </Col>
+                <Col md={3} sm={6} xs={12}>
+                  <Feature feature_image_alt="Graph" feature_image="https://www.douply.com/images/icons/duo/graph.png"
+                      title="Reporting tool"
+                      content="Create reports in just minutes for all your online campaigns. Daily, weekly or monthly reporting has never been so easy and fun."
+                  />
+                </Col>
+                <Col md={3} sm={6} xs={12}>
+                  <Feature feature_image_alt="Network" feature_image="https://www.douply.com/images/icons/duo/network.png"
+                      title="Connect platforms"
+                      content="Build reports on Google AdWords, Google Analytics, Bing Ads, Adform, Facebook and Instagram Ads and many others. One tool, endless results"
+                  />
+                </Col>
+              </Row>
             </Grid>
           </Col>
-          <Row>
-            <Col md={3} sm={6} xs={12}>
-              <Feature feature_image_alt="Client" feature_image="https://www.douply.com/images/icons/duo/client.png"
-                  title="Client side dashboard"
-                  content="No need to share or submit reporting yourself. Douply comes with a free built-in client dashboard"
-              />
-            </Col>
-            <Col md={3} sm={6} xs={12}>
-              <Feature feature_image_alt="Client" feature_image="https://www.douply.com/images/icons/duo/report.png"
-                  title="Client side dashboard"
-                  content="No need to share or submit reporting yourself. Douply comes with a free built-in client dashboard"
-              />
-            </Col>
-            <Col md={3} sm={6} xs={12}>
-              <Feature feature_image_alt="Graph" feature_image="https://www.douply.com/images/icons/duo/graph.png"
-                  title="Reporting tool"
-                  content="Create reports in just minutes for all your online campaigns. Daily, weekly or monthly reporting has never been so easy and fun."
-              />
-            </Col>
-            <Col md={3} sm={6} xs={12}>
-              <Feature feature_image_alt="Network" feature_image="https://www.douply.com/images/icons/duo/network.png"
-                  title="Connect platforms"
-                  content="Build reports on Google AdWords, Google Analytics, Bing Ads, Adform, Facebook and Instagram Ads and many others. One tool, endless results"
-              />
-            </Col>
-          </Row>
         </Row>
       <div id="funandeasy" className="row ribbon">
         <div className="col-xs-12 centerTitle title-padding trial-text-ribbon"><span className="margin-right-15">Reporting is getting easy and fun with Douply</span><a href="https://reports.douply.com/access/sign_up" target="_blank" id="btn-14day-free" className="btn btn-darkblue"> Yes, I want a 6-month FREE trial!</a> </div>
