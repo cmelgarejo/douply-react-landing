@@ -90,14 +90,14 @@ class App extends Component {
                 </Col>
                 <Col md={3} sm={6} xs={12}>
                   <Feature feature_image_alt="Client" feature_image="https://www.douply.com/images/icons/duo/report.png"
-                      title="Client side dashboard"
-                      content="No need to share or submit reporting yourself. Douply comes with a free built-in client dashboard"
+                      title="Reporting tool"
+                      content="Create reports in just minutes for all your online campaigns. Daily, weekly or monthly reporting has never been so easy and fun."
                   />
                 </Col>
                 <Col md={3} sm={6} xs={12}>
                   <Feature feature_image_alt="Graph" feature_image="https://www.douply.com/images/icons/duo/graph.png"
                       title="Reporting tool"
-                      content="Create reports in just minutes for all your online campaigns. Daily, weekly or monthly reporting has never been so easy and fun."
+                      content="Surprise your clients with nice interactive graphs. Douply gives you several graph types for different KPIs."
                   />
                 </Col>
                 <Col md={3} sm={6} xs={12}>
