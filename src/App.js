@@ -21,7 +21,7 @@ class App extends Component {
           <Navbar.Collapse>
             <Nav pullRight bsClass="nav hidden-xs hidden-sm">
               <li className="hidden-xs hidden-sm" style={{float: 'right'}}>
-                <a href="https://reports.douply.com/access/sign_up" id="btn-sign_in" className="btn shade-6-bg" target="_blank">Free trial</a>
+                <a href="https://reports.douply.com/access/sign_up" id="btn-sign_up" className="btn shade-6-bg" target="_blank">Free trial</a>
               </li>
               <li className="hidden-xs hidden-sm" style={{float: 'right'}}>
                 <a href="https://reports.douply.com/access/sign_in" id="btn-sign_in" className="btn btn-outline" target="_blank">Sign-in</a>
@@ -96,7 +96,7 @@ class App extends Component {
                 </Col>
                 <Col md={3} sm={6} xs={12}>
                   <Feature feature_image_alt="Graph" feature_image="https://www.douply.com/images/icons/duo/graph.png"
-                      title="Reporting tool"
+                      title="Graphs"
                       content="Surprise your clients with nice interactive graphs. Douply gives you several graph types for different KPIs."
                   />
                 </Col>
