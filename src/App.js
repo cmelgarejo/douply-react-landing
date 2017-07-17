@@ -57,7 +57,7 @@ class App extends Component {
                     </Col>
                   </Row>
                   <Row>
-                    <Col md={12} xs={12} className="text-center">
+                    <Col md={12} xs={12} className="text-center" id="topTryButton">
                       <a href="https://reports.douply.com/access/sign_up" id="btn-try_douply_now" className="btn btn-signup btn-lg wrap" target="_blank">
                         TRY DOUPLY NOW
                       </a> 

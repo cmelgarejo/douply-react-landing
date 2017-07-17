@@ -829,7 +829,8 @@ h6{
 .btn-outline {
   background-color: transparent;
   border-color: #fff;
-  color: #fff;	
+	color: #fff;
+	border: 1px solid;
 }
 
 
